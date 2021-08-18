@@ -2,7 +2,7 @@ name: Linkerd Pattern Components Generator
 on:
   push:
     branches:
-      - 'master'
+      - 'linkerd-comps-tes'
 
 jobs:
   check_linkerd_version:
